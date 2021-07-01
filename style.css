@@ -25,7 +25,7 @@ html{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: orange; 
+    background: #ec386e; 
 }
 .navbar .max-width{
     display: flex;
@@ -38,7 +38,7 @@ html{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: orange;
+    color: #ec386e;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -57,7 +57,7 @@ html{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: orange;
+    color: #ec386e;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -73,7 +73,7 @@ html{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: orange;
+    background: #ec386e;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -118,22 +118,22 @@ html{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: orange;
+    color: #ec386e;
     font-weight: 500;
 }
 .home .home-content a{
     display: inline-block;
-    background: orange;
+    background: #ec386e;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid orange;
+    border: 2px solid #ec386e;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{
-    color: orange;
+    color: #ec386e;
     background: none;
 }
 
@@ -177,7 +177,7 @@ section .title::after{
     bottom: -12px;
     left: 50%;
     font-size: 20px;
-    color: orange;
+    color: #ec386e;
     padding: 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -208,25 +208,25 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color: orange;
+    color: #ec386e;
 }
 .about .about-content .right p{
     text-align: justify;
 }
 .about .about-content .right a{
     display: inline-block;
-    background: orange;
+    background: #ec386e;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid orange;
+    border: 2px solid #ec386e;
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: orange;
+    color: #ec386e;
     background: none;
 }
 
@@ -309,7 +309,7 @@ section .title::after{
 .skills .skills-content .left .text{
     font-size: 25px;
     font-weight: 600;
-    color: orange;
+    color: #ec386e;
     margin-bottom: 10px;
 }
 .skills .skills-content .left p{
@@ -345,7 +345,7 @@ section .title::after{
     height: 100%;
     left: 0;
     top: 0;
-    background: orange;
+    background: #ec386e;
 }
 .skills-content .right .html::before{
     width: 90%;
@@ -375,7 +375,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover{
-    background: orange;
+    background: #ec386e;
 }
 .teams .carousel .card .box{
     display: flex;
@@ -397,7 +397,7 @@ section .title::after{
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid orange;
+    border: 5px solid #ec386e;
     transition: all 0.3s ease;
 }
 .teams .carousel .card:hover img{
@@ -413,7 +413,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid orange!important;
+    border: 2px solid #ec386e!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -422,7 +422,7 @@ section .title::after{
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: orange!important;
+    background: #ec386e!important;
 }
 
 /* contact section styling */
@@ -454,7 +454,7 @@ section .title::after{
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: orange;
+    color: #ec386e;
 }
 .contact .contact-content .info .head{
     font-weight: 500;
@@ -503,8 +503,8 @@ section .title::after{
 .contact .right form .button button{
     width: 100%;
     height: 100%;
-    border: 2px solid orange;
-    background: orange;
+    border: 2px solid #ec386e;
+    background: #ec386e;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -513,7 +513,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .contact .right form .button button:hover{
-    color: orange;
+    color: #ec386e;
     background: none;
 }
 
@@ -525,7 +525,7 @@ footer{
     color: #fff;
 }
 footer span a{
-    color: orange;
+    color: #ec386e;
     text-decoration: none;
 }
 footer span a:hover{
